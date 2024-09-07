@@ -1,1 +1,1 @@
-# sales-sample-data
+(project: sales sample data)
